@@ -1,0 +1,27 @@
+.card{
+    height: 100%;
+    border-radius: 45px;
+}
+
+.card-img-top{
+    object-fit: cover;
+    height: 200px;
+}
+
+.cardbody{
+    background-color: black;
+    color: aliceblue;
+}
+
+.bg-body-tertiary{
+    background-color: black;
+    color: red;
+}
+
+.mainlink{
+    color: blue;
+}
+.cards{
+    background-color: white;
+    width: 100%;
+}
