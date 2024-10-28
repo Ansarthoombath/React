@@ -1,0 +1,21 @@
+.main-heading {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 100vh; /* Full viewport height */
+    text-align: center; /* Centers text inside the h1 */
+    color:blue
+  }
+
+  .main-nav{
+    background-color: blue;
+    color: white;
+    
+  }
+  .productWprld{
+    color: white;
+  }
+
+  .text-white{
+    color: white !important;
+  }
